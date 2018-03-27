@@ -6,3 +6,7 @@ git add README.md
 git commit -m "first commit"  
 git remote add origin https://github.com/JimmyKent/GitCommand.git  
 git push -u origin master  
+
+
+### git不自动添加
+![git不自动添加](git不自动添加.png)  
