@@ -10,3 +10,7 @@ git push -u origin master
 
 ### git不自动添加
 ![git不自动添加](git不自动添加.png)  
+
+使用git add -A 或者 git add .
+要清除某个文件, 但是不删除本地文件
+$ git rm --cached readme.txt
